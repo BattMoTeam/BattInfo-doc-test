@@ -96,9 +96,17 @@ Substance Domain
 Ontology <https://github.com/emmo-repo/domain-chemical-substance>`__:
 provides material annotations for electrochemical (meta)data.
 
-The import structure is summarized in the following table: \| Imported
-Ontologies \| Version \| \| ——————- \| —————– \| \| EMMO \| 1.0.0-beta5
-\| \| chemical-substance \| 0.2.0-alpha \|
+The import structure is summarized in the following table:
+
+.. list-table::
+   :header-rows: 1
+
+   * - **Imported Ontologies**
+     - **Version**
+   * - EMMO
+     - 1.0.0-beta5
+   * - chemical-substance
+     - 0.2.0-alpha 
 
 For simplicity, we complie the source files and other imports into a
 `pre-inferred
