@@ -4,7 +4,6 @@
 .. toctree::
 
 
-
 Electrochemistry Domain Ontology
 ================================
 
